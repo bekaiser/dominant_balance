@@ -1,0 +1,9 @@
+Cluster Reduction IC_flag Standardize_flag Bias_flag Save_flag NE0 NE NK0 NK a1 a2 Na
+KMeans SPCA off on unbiased on 0 1 2 11 -2 2 100
+GMM SPCA off on unbiased on 0 1 7 10 -1 2 100
+GMM SPCA off on unbiased on 0 1 8 10 -1 2 100
+GMM SPCA off on unbiased on 0 1 9 10 -1 2 100
+GMM SPCA off on unbiased on 0 1 10 10 -1 2 100
+GMM SPCA off on unbiased on 0 1 11 10 -1 2 100
+GMM SPCA off on unbiased on 0 1 12 10 -1 2 100
+GMM SPCA off on unbiased on 0 1 13 10 -1 2 100

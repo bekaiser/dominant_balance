@@ -1,4 +1,6 @@
-# dominant_balance
-Code for "Automated Identification of Dominant Physical Processes" (2022) in Engineering Application of Artificial Intelligence:
+# id_dominant_balances
 
-https://doi.org/10.1016/j.engappai.2022.105496
+This repository contains the open source code for "Unsupervised Machine Learning Framework for Dynamical Regime 
+Identification" LANL copyright disclosure record C21082.
+
+More information about the code will be added here soon!
